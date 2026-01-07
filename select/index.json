@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "KING OF THE CENTURY",
+  "base_artist": "LESLIE PARRISH",
+  "createdAt": "2026-01-07T13:45:13.557354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "King Of The Century",
+      "artist": "Leslie Parrish",
+      "has_synced": false,
+      "path": "select/01_King_Of_The_Century_Leslie_Parrish.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "King Of The Century",
+      "artist": "Leslie Parrish",
+      "has_synced": false,
+      "path": "select/pl_01_King_Of_The_Century_Leslie_Parrish.txt"
+    }
+  ]
+}
